@@ -9,14 +9,16 @@ p {
   display: flex;
   justify-content: space-evenly;
 }
-a {
-  color: green;
+footer {
+  text-align: center;
 }
-a:active {
+footer a {
   color: green;
+  margin: 0 10px;
 }
 img {
   max-width: 400px;
+  border-radius: 10px;
   display: block;
-  margin: 0 auto;
+  margin: 0px auto;
 }
